@@ -4,7 +4,7 @@ Command line option interface for Deploy deployment system
 
 |---------+----------------------------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/deploy-command-line.git     |
-| commit  | c58b145                                                        |
+| commit  | 0000000                                                        |
 | systems | deploy-command-line                                            |
 |---------+----------------------------------------------------------------|
 
